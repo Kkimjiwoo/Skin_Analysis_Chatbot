@@ -11,7 +11,7 @@
   
 ## Project Process
 ### `Data Collection`
-- AI Hub[https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71645]
+- AI Hub[https://www.aihub.or.kr/aihubdata/data/]
   > 피부 이미지 수집
 - 올리브영 [https://www.oliveyoung.co.kr/]
   > 제품명과 상세 내용 및 리뷰 데이터 수집
